@@ -6,6 +6,8 @@ An acceptance-tested, single-host laboratory for designing resilient Python/Fast
 
 **Status:** Laboratory implementation VERIFIED. Customer production deployment and third-party enterprise certification NOT claimed.
 
+**English specialist catalog:** [Read the PDF](catalog/ARAZVERA_Level4_Resilience_Engineering_Catalog_EN_v0.4.0.pdf) | [Editable Word document](catalog/ARAZVERA_Level4_Resilience_Engineering_Catalog_EN_v0.4.0.docx).
+
 ## Engineering services available for scoped projects
 
 | Capability | Representative work |
